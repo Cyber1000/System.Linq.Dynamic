@@ -9,7 +9,6 @@ I am in no way taking ownership of this assembly!  I'm am simply making it avail
 
 install-package System.Linq.Dynamic
 
-Harald Heigl
-blog.heigl-online.at
+Harald Heigl - http://blog.heigl-online.at
 
 I've just forked from King Wilder, I needed a strong signed assembly. The assembly is not changed in any other way. Nuget package is updated here for download. Disclaimer from King Wilder applies here too.
